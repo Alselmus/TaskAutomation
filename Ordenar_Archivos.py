@@ -1,7 +1,7 @@
 import os
 import shutil
 #Antes de ejecutar el programa Cree las carpetas: Documentos, Imagenes, Videos,
-# Programas y Comprimidos en la carpeta descargas.
+# Programas,Comprimidos y Varios en la carpeta descargas.
 #Ruta de la carpeta descargas, cambiar Usuario por el Usuario correspondiente
 ruta_descargas = "C:\\Users\\Usuario\\Downloads\\"
 # Extensiones por las que se filtra
