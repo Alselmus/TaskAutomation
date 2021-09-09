@@ -1,5 +1,6 @@
 import os
 import shutil
+#ADVERTENCIA NO TENER EL ARCHIVO DEL SCRIPT EN LA MISMA CARPETA DESCARGAS.
 #Antes de ejecutar el programa Cree las carpetas: Documentos, Imagenes, Videos,
 # Programas,Comprimidos y Varios en la carpeta descargas.
 #Ruta de la carpeta descargas, cambiar Usuario por el Usuario correspondiente
