@@ -13,7 +13,7 @@ ext_comprimidos = ['.tar', '.tar.gz','.rar','.zip','.tgz', '.7z']
 move = False
 
 #Funcion que mueve y ordena los Archivos por Carpeta
-def ordenar (archivo,ext,move, Carpetas):
+def ordenar (archivo,ext,move):
     if ext in ext_texto:
         shutil.move(ruta_descargas + archivo, ruta_descargas + 'Documentos')
         move = True
